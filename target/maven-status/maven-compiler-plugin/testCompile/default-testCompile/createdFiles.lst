@@ -1,0 +1,7 @@
+com\app\testcases\HomeTest.class
+com\app\base\BasePage.class
+com\app\utilities\PropertiesUtility.class
+com\app\base\BaseTest.class
+com\app\utilities\ActionsUtility.class
+com\app\pages\HomePage.class
+com\app\utilities\Constants.class

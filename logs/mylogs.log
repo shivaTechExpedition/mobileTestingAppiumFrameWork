@@ -1,0 +1,269 @@
+20241118 20:55:17 INFO  [main] base.BasePage BasePage.java60 - Adding implicit wait of 10 seconds.
+20241118 20:55:18 INFO  [main] testcases.HomeTest HomeTest.java50 - current app package and current app activity is: com.androidsample.generalstore and .SplashActivity
+20241118 20:55:18 INFO  [main] testcases.HomeTest HomeTest.java53 - current activity.SplashActivity
+20241118 20:55:31 INFO  [main] base.BasePage BasePage.java60 - Adding implicit wait of 10 seconds.
+20241118 20:57:08 INFO  [main] base.BasePage BasePage.java60 - Adding implicit wait of 10 seconds.
+20241118 20:57:08 INFO  [main] testcases.HomeTest HomeTest.java50 - current app package and current app activity is: com.androidsample.generalstore and .SplashActivity
+20241118 20:57:08 INFO  [main] testcases.HomeTest HomeTest.java53 - current activity.SplashActivity
+20241118 20:57:19 INFO  [main] base.BasePage BasePage.java60 - Adding implicit wait of 10 seconds.
+20241118 20:59:23 INFO  [main] base.BasePage BasePage.java60 - Adding implicit wait of 10 seconds.
+20241118 20:59:23 INFO  [main] testcases.HomeTest HomeTest.java50 - current app package and current app activity is: com.androidsample.generalstore and .SplashActivity
+20241118 20:59:23 INFO  [main] testcases.HomeTest HomeTest.java53 - current activity.SplashActivity
+20241118 20:59:35 INFO  [main] base.BasePage BasePage.java60 - Adding implicit wait of 10 seconds.
+20241118 21:04:30 INFO  [main] base.BasePage BasePage.java61 - Adding implicit wait of 10 seconds.
+20241118 21:04:30 INFO  [main] testcases.HomeTest HomeTest.java50 - current app package and current app activity is: com.androidsample.generalstore and .SplashActivity
+20241118 21:04:31 INFO  [main] testcases.HomeTest HomeTest.java53 - current activity.SplashActivity
+20241118 21:04:42 INFO  [main] base.BasePage BasePage.java61 - Adding implicit wait of 10 seconds.
+20241118 21:08:31 INFO  [main] base.BasePage BasePage.java61 - Adding implicit wait of 10 seconds.
+20241118 21:08:32 INFO  [main] testcases.HomeTest HomeTest.java50 - current app package and current app activity is: com.androidsample.generalstore and .SplashActivity
+20241118 21:08:32 INFO  [main] testcases.HomeTest HomeTest.java53 - current activity.SplashActivity
+20241118 21:08:42 INFO  [main] base.BasePage BasePage.java61 - Adding implicit wait of 10 seconds.
+20241118 21:08:45 INFO  [main] pages.HomePage HomePage.java54 - Extracted text is: General Store
+20241118 21:08:45 INFO  [main] pages.HomePage HomePage.java54 - Extracted text is: Afghanistan
+20241118 21:08:45 INFO  [main] pages.HomePage HomePage.java54 - Extracted text is: Your Name
+20241118 21:08:45 INFO  [main] pages.HomePage HomePage.java54 - Extracted text is: Enter name here
+20241118 21:08:46 INFO  [main] pages.HomePage HomePage.java54 - Extracted text is: Gender
+20241118 21:08:46 INFO  [main] base.BasePage BasePage.java67 - Adding WebDriverWait of 0 seconds.
+20241118 21:08:46 INFO  [main] pages.HomePage HomePage.java54 - Extracted text is: Let's  Shop
+20241118 21:08:55 INFO  [main] base.BasePage BasePage.java61 - Adding implicit wait of 10 seconds.
+20241118 21:08:58 INFO  [main] base.BasePage BasePage.java77 - Lets Shop Button is clicked.
+20241118 21:08:58 INFO  [main] base.BasePage BasePage.java67 - Adding WebDriverWait of 1 seconds.
+20241118 21:11:20 INFO  [main] base.BasePage BasePage.java61 - Adding implicit wait of 10 seconds.
+20241118 21:11:20 INFO  [main] testcases.HomeTest HomeTest.java50 - current app package and current app activity is: com.androidsample.generalstore and .SplashActivity
+20241118 21:11:21 INFO  [main] testcases.HomeTest HomeTest.java53 - current activity.SplashActivity
+20241118 21:11:32 INFO  [main] base.BasePage BasePage.java61 - Adding implicit wait of 10 seconds.
+20241118 21:11:34 INFO  [main] base.BasePage BasePage.java77 - Lets Shop Button is clicked.
+20241118 21:17:17 INFO  [main] base.BasePage BasePage.java61 - Adding implicit wait of 10 seconds.
+20241118 21:17:18 INFO  [main] testcases.HomeTest HomeTest.java50 - current app package and current app activity is: com.androidsample.generalstore and .SplashActivity
+20241118 21:17:18 INFO  [main] testcases.HomeTest HomeTest.java53 - current activity.SplashActivity
+20241118 21:17:30 INFO  [main] base.BasePage BasePage.java61 - Adding implicit wait of 10 seconds.
+20241118 21:17:32 INFO  [main] base.BasePage BasePage.java77 - Lets Shop Button is clicked.
+20241118 21:17:32 INFO  [main] base.BasePage BasePage.java67 - Adding WebDriverWait of 3 seconds.
+20241118 21:23:44 INFO  [main] base.BasePage BasePage.java61 - Adding implicit wait of 10 seconds.
+20241118 21:23:45 INFO  [main] testcases.HomeTest HomeTest.java50 - current app package and current app activity is: com.androidsample.generalstore and .SplashActivity
+20241118 21:23:45 INFO  [main] testcases.HomeTest HomeTest.java53 - current activity.SplashActivity
+20241118 21:23:55 INFO  [main] base.BasePage BasePage.java61 - Adding implicit wait of 10 seconds.
+20241118 21:23:58 INFO  [main] base.BasePage BasePage.java77 - Lets Shop Button is clicked.
+20241118 21:27:49 INFO  [main] base.BasePage BasePage.java61 - Adding implicit wait of 10 seconds.
+20241118 21:27:50 INFO  [main] testcases.HomeTest HomeTest.java50 - current app package and current app activity is: com.androidsample.generalstore and .SplashActivity
+20241118 21:27:50 INFO  [main] testcases.HomeTest HomeTest.java53 - current activity.SplashActivity
+20241118 21:28:02 INFO  [main] base.BasePage BasePage.java61 - Adding implicit wait of 10 seconds.
+20241118 21:28:04 INFO  [main] base.BasePage BasePage.java77 - Lets Shop Button is clicked.
+20241118 21:28:04 INFO  [main] base.BasePage BasePage.java67 - Adding WebDriverWait of 0 seconds.
+20241118 21:31:21 INFO  [main] base.BasePage BasePage.java61 - Adding implicit wait of 10 seconds.
+20241118 21:31:21 INFO  [main] testcases.HomeTest HomeTest.java50 - current app package and current app activity is: com.androidsample.generalstore and .SplashActivity
+20241118 21:31:22 INFO  [main] testcases.HomeTest HomeTest.java53 - current activity.SplashActivity
+20241118 21:31:33 INFO  [main] base.BasePage BasePage.java61 - Adding implicit wait of 10 seconds.
+20241118 21:31:36 INFO  [main] base.BasePage BasePage.java77 - Lets Shop Button is clicked.
+20241118 21:31:36 INFO  [main] base.BasePage BasePage.java67 - Adding WebDriverWait of 5 seconds.
+20241118 21:48:27 INFO  [main] base.BasePage BasePage.java73 - Adding implicit wait of 5 seconds.
+20241118 21:48:27 INFO  [main] base.BasePage BasePage.java73 - Adding implicit wait of 10 seconds.
+20241118 21:48:30 INFO  [main] base.BasePage BasePage.java52 - data is entered in the EnterName text field
+20241118 21:48:31 INFO  [main] base.BasePage BasePage.java89 - Lets Shop Button is clicked.
+20241118 22:15:13 INFO  [main] base.BasePage BasePage.java87 - Adding implicit wait of 5 seconds.
+20241118 22:15:13 INFO  [main] base.BasePage BasePage.java87 - Adding implicit wait of 4 seconds.
+20241118 22:15:17 INFO  [main] base.BasePage BasePage.java70 - India option in the drop down menu clicked
+20241118 22:15:19 INFO  [main] base.BasePage BasePage.java53 - data is entered in the EnterName text field
+20241118 22:15:20 INFO  [main] base.BasePage BasePage.java103 - Lets Shop Button is clicked.
+20241118 22:18:31 INFO  [main] base.BasePage BasePage.java87 - Adding implicit wait of 5 seconds.
+20241118 22:18:31 INFO  [main] base.BasePage BasePage.java87 - Adding implicit wait of 4 seconds.
+20241118 22:18:35 INFO  [main] base.BasePage BasePage.java70 - India option in the drop down menu clicked
+20241118 22:18:42 INFO  [main] base.BasePage BasePage.java53 - data is entered in the EnterName text field
+20241118 22:18:42 INFO  [main] base.BasePage BasePage.java103 - Lets Shop Button is clicked.
+20241118 22:19:39 INFO  [main] base.BasePage BasePage.java87 - Adding implicit wait of 5 seconds.
+20241118 22:19:39 INFO  [main] base.BasePage BasePage.java87 - Adding implicit wait of 4 seconds.
+20241118 22:19:44 INFO  [main] base.BasePage BasePage.java70 - India option in the drop down menu clicked
+20241118 22:19:50 INFO  [main] base.BasePage BasePage.java53 - data is entered in the EnterName text field
+20241118 22:19:51 INFO  [main] base.BasePage BasePage.java103 - Lets Shop Button is clicked.
+20241118 22:52:29 INFO  [main] base.BasePage BasePage.java87 - Adding implicit wait of 5 seconds.
+20241118 22:52:30 INFO  [main] base.BasePage BasePage.java103 - DropDown click is clicked.
+20241118 22:52:30 INFO  [main] base.BasePage BasePage.java87 - Adding implicit wait of 4 seconds.
+20241118 22:52:34 INFO  [main] base.BasePage BasePage.java70 - India option in the drop down menu clicked
+20241118 22:52:41 INFO  [main] base.BasePage BasePage.java53 - data is entered in the EnterName text field
+20241118 22:52:42 INFO  [main] base.BasePage BasePage.java103 - Lets Shop Button is clicked.
+20241118 22:53:50 INFO  [main] base.BasePage BasePage.java87 - Adding implicit wait of 5 seconds.
+20241118 22:53:51 INFO  [main] base.BasePage BasePage.java103 - DropDown click is clicked.
+20241118 22:53:51 INFO  [main] base.BasePage BasePage.java87 - Adding implicit wait of 4 seconds.
+20241118 22:53:55 INFO  [main] base.BasePage BasePage.java70 - India option in the drop down menu clicked
+20241118 22:54:02 INFO  [main] base.BasePage BasePage.java53 - data is entered in the EnterName text field
+20241118 22:54:02 INFO  [main] base.BasePage BasePage.java103 - Lets Shop Button is clicked.
+20241118 22:55:20 INFO  [main] base.BasePage BasePage.java87 - Adding implicit wait of 5 seconds.
+20241118 22:55:21 INFO  [main] base.BasePage BasePage.java103 - DropDown click is clicked.
+20241118 22:55:21 INFO  [main] base.BasePage BasePage.java87 - Adding implicit wait of 4 seconds.
+20241118 22:55:25 INFO  [main] base.BasePage BasePage.java70 - India option in the drop down menu clicked
+20241118 22:55:31 INFO  [main] base.BasePage BasePage.java53 - data is entered in the EnterName text field
+20241118 22:55:32 INFO  [main] base.BasePage BasePage.java103 - Lets Shop Button is clicked.
+20241119 06:12:55 INFO  [main] base.BasePage BasePage.java87 - Adding implicit wait of 5 seconds.
+20241119 06:14:34 INFO  [main] base.BasePage BasePage.java87 - Adding implicit wait of 10 seconds.
+20241119 06:14:35 INFO  [main] testcases.HomeTest HomeTest.java52 - current app package and current app activity is: com.androidsample.generalstore and .SplashActivity
+20241119 06:14:35 INFO  [main] testcases.HomeTest HomeTest.java55 - current activity.SplashActivity
+20241119 06:14:44 INFO  [main] base.BasePage BasePage.java87 - Adding implicit wait of 5 seconds.
+20241119 06:16:56 INFO  [main] base.BasePage BasePage.java87 - Adding implicit wait of 5 seconds.
+20241119 06:16:59 INFO  [main] base.BasePage BasePage.java53 - data is entered in the EnterName text field
+20241119 06:17:09 INFO  [main] base.BasePage BasePage.java87 - Adding implicit wait of 10 seconds.
+20241119 06:17:09 INFO  [main] testcases.HomeTest HomeTest.java52 - current app package and current app activity is: com.androidsample.generalstore and .SplashActivity
+20241119 06:17:10 INFO  [main] testcases.HomeTest HomeTest.java55 - current activity.SplashActivity
+20241119 06:17:18 INFO  [main] base.BasePage BasePage.java87 - Adding implicit wait of 5 seconds.
+20241119 06:17:27 INFO  [main] base.BasePage BasePage.java87 - Adding implicit wait of 10 seconds.
+20241119 06:17:31 INFO  [main] pages.HomePage HomePage.java62 - Extracted text is: General Store
+20241119 06:17:31 INFO  [main] pages.HomePage HomePage.java62 - Extracted text is: Afghanistan
+20241119 06:17:32 INFO  [main] pages.HomePage HomePage.java62 - Extracted text is: Your Name
+20241119 06:17:32 INFO  [main] pages.HomePage HomePage.java62 - Extracted text is: Enter name here
+20241119 06:17:32 INFO  [main] pages.HomePage HomePage.java62 - Extracted text is: Gender
+20241119 06:17:32 INFO  [main] base.BasePage BasePage.java93 - Adding WebDriverWait of 0 seconds.
+20241119 06:17:33 INFO  [main] pages.HomePage HomePage.java62 - Extracted text is: Let's  Shop
+20241119 06:17:41 INFO  [main] base.BasePage BasePage.java87 - Adding implicit wait of 10 seconds.
+20241119 06:17:45 INFO  [main] base.BasePage BasePage.java103 - Lets Shop Button is clicked.
+20241119 06:17:45 INFO  [main] base.BasePage BasePage.java93 - Adding WebDriverWait of 5 seconds.
+20241119 06:18:47 INFO  [main] base.BasePage BasePage.java87 - Adding implicit wait of 5 seconds.
+20241119 06:18:51 INFO  [main] base.BasePage BasePage.java53 - data is entered in the EnterName text field
+20241119 06:24:10 INFO  [main] base.BasePage BasePage.java87 - Adding implicit wait of 5 seconds.
+20241119 06:24:13 INFO  [main] base.BasePage BasePage.java53 - data is entered in the EnterName text field
+20241119 06:24:13 INFO  [main] base.BasePage BasePage.java93 - Adding WebDriverWait of 10 seconds.
+20241119 06:31:39 INFO  [main] base.BasePage BasePage.java87 - Adding implicit wait of 5 seconds.
+20241119 06:31:42 INFO  [main] base.BasePage BasePage.java53 - data is entered in the EnterName text field
+20241119 06:31:43 INFO  [main] base.BasePage BasePage.java93 - Adding WebDriverWait of 10 seconds.
+20241119 06:34:00 INFO  [main] base.BasePage BasePage.java87 - Adding implicit wait of 5 seconds.
+20241119 06:34:05 INFO  [main] base.BasePage BasePage.java53 - data is entered in the EnterName text field
+20241119 06:34:05 INFO  [main] base.BasePage BasePage.java103 - Let's shop is clicked.
+20241119 06:34:05 INFO  [main] base.BasePage BasePage.java93 - Adding WebDriverWait of 10 seconds.
+20241119 06:36:26 INFO  [main] base.BasePage BasePage.java87 - Adding implicit wait of 5 seconds.
+20241119 06:36:30 INFO  [main] base.BasePage BasePage.java53 - data is entered in the EnterName text field
+20241119 06:36:31 INFO  [main] base.BasePage BasePage.java103 - Let's shop is clicked.
+20241119 06:36:31 INFO  [main] base.BasePage BasePage.java93 - Adding WebDriverWait of 10 seconds.
+20241119 06:43:02 INFO  [main] base.BasePage BasePage.java87 - Adding implicit wait of 5 seconds.
+20241119 06:43:06 INFO  [main] base.BasePage BasePage.java53 - data is entered in the EnterName text field
+20241119 06:43:06 INFO  [main] base.BasePage BasePage.java103 - Let's shop is clicked.
+20241119 06:43:56 INFO  [main] base.BasePage BasePage.java87 - Adding implicit wait of 5 seconds.
+20241119 06:44:00 INFO  [main] base.BasePage BasePage.java53 - data is entered in the EnterName text field
+20241119 06:44:00 INFO  [main] base.BasePage BasePage.java103 - Let's shop is clicked.
+20241119 06:45:03 INFO  [main] base.BasePage BasePage.java87 - Adding implicit wait of 5 seconds.
+20241119 06:45:06 INFO  [main] base.BasePage BasePage.java53 - data is entered in the EnterName text field
+20241119 06:45:07 INFO  [main] base.BasePage BasePage.java103 - Let's shop is clicked.
+20241119 06:51:43 INFO  [main] base.BasePage BasePage.java87 - Adding implicit wait of 5 seconds.
+20241119 06:51:47 INFO  [main] base.BasePage BasePage.java53 - data is entered in the EnterName text field
+20241119 06:51:47 INFO  [main] base.BasePage BasePage.java103 - Let's shop is clicked.
+20241119 06:57:03 INFO  [main] base.BasePage BasePage.java87 - Adding implicit wait of 5 seconds.
+20241119 06:57:05 INFO  [main] base.BasePage BasePage.java53 - data is entered in the EnterName text field
+20241119 06:57:06 INFO  [main] base.BasePage BasePage.java103 - Let's shop is clicked.
+20241119 07:30:30 INFO  [main] base.BasePage BasePage.java87 - Adding implicit wait of 5 seconds.
+20241119 07:30:33 INFO  [main] base.BasePage BasePage.java53 - data is entered in the EnterName text field
+20241119 07:30:34 INFO  [main] base.BasePage BasePage.java103 - Let's shop is clicked.
+20241119 07:32:08 INFO  [main] base.BasePage BasePage.java87 - Adding implicit wait of 5 seconds.
+20241119 07:32:11 INFO  [main] base.BasePage BasePage.java53 - data is entered in the EnterName text field
+20241119 07:32:12 INFO  [main] base.BasePage BasePage.java103 - Let's shop is clicked.
+20241119 07:43:03 INFO  [main] base.BasePage BasePage.java87 - Adding implicit wait of 5 seconds.
+20241119 07:43:07 INFO  [main] base.BasePage BasePage.java53 - data is entered in the EnterName text field
+20241119 07:43:08 INFO  [main] base.BasePage BasePage.java103 - Let's shop is clicked.
+20241119 07:43:20 INFO  [main] base.BasePage BasePage.java93 - Adding WebDriverWait of 10 seconds.
+20241119 07:44:45 INFO  [main] base.BasePage BasePage.java87 - Adding implicit wait of 5 seconds.
+20241119 07:44:48 INFO  [main] base.BasePage BasePage.java53 - data is entered in the EnterName text field
+20241119 07:44:49 INFO  [main] base.BasePage BasePage.java103 - Let's shop is clicked.
+20241119 07:45:07 INFO  [main] base.BasePage BasePage.java93 - Adding WebDriverWait of 10 seconds.
+20241119 07:45:20 INFO  [main] base.BasePage BasePage.java103 - Add To cart button is clicked.
+20241119 07:48:09 INFO  [main] base.BasePage BasePage.java87 - Adding implicit wait of 5 seconds.
+20241119 07:48:12 INFO  [main] base.BasePage BasePage.java53 - data is entered in the EnterName text field
+20241119 07:48:13 INFO  [main] base.BasePage BasePage.java103 - Let's shop is clicked.
+20241119 07:48:37 INFO  [main] base.BasePage BasePage.java93 - Adding WebDriverWait of 10 seconds.
+20241119 07:49:36 INFO  [main] base.BasePage BasePage.java87 - Adding implicit wait of 5 seconds.
+20241119 07:49:40 INFO  [main] base.BasePage BasePage.java53 - data is entered in the EnterName text field
+20241119 07:49:40 INFO  [main] base.BasePage BasePage.java103 - Let's shop is clicked.
+20241119 07:49:51 INFO  [main] base.BasePage BasePage.java93 - Adding WebDriverWait of 10 seconds.
+20241119 07:49:53 INFO  [main] base.BasePage BasePage.java103 - Add To cart button is clicked.
+20241119 07:58:50 INFO  [main] base.BasePage BasePage.java87 - Adding implicit wait of 5 seconds.
+20241119 07:58:54 INFO  [main] base.BasePage BasePage.java53 - data is entered in the EnterName text field
+20241119 07:58:55 INFO  [main] base.BasePage BasePage.java103 - Let's shop is clicked.
+20241119 07:59:05 INFO  [main] base.BasePage BasePage.java93 - Adding WebDriverWait of 10 seconds.
+20241119 13:14:37 INFO  [main] base.BasePage BasePage.java87 - Adding implicit wait of 5 seconds.
+20241119 13:14:40 INFO  [main] base.BasePage BasePage.java53 - data is entered in the EnterName text field
+20241119 13:14:41 INFO  [main] base.BasePage BasePage.java103 - Let's shop is clicked.
+20241119 13:14:58 INFO  [main] base.BasePage BasePage.java93 - Adding WebDriverWait of 10 seconds.
+20241119 13:16:23 INFO  [main] base.BasePage BasePage.java87 - Adding implicit wait of 5 seconds.
+20241119 13:16:26 INFO  [main] base.BasePage BasePage.java53 - data is entered in the EnterName text field
+20241119 13:16:27 INFO  [main] base.BasePage BasePage.java103 - Let's shop is clicked.
+20241119 13:16:43 INFO  [main] base.BasePage BasePage.java93 - Adding WebDriverWait of 10 seconds.
+20241119 13:17:48 INFO  [main] base.BasePage BasePage.java87 - Adding implicit wait of 5 seconds.
+20241119 13:17:51 INFO  [main] base.BasePage BasePage.java53 - data is entered in the EnterName text field
+20241119 13:17:52 INFO  [main] base.BasePage BasePage.java103 - Let's shop is clicked.
+20241119 13:18:08 INFO  [main] base.BasePage BasePage.java93 - Adding WebDriverWait of 10 seconds.
+20241119 13:21:27 INFO  [main] base.BasePage BasePage.java87 - Adding implicit wait of 5 seconds.
+20241119 13:21:30 INFO  [main] base.BasePage BasePage.java53 - data is entered in the EnterName text field
+20241119 13:21:31 INFO  [main] base.BasePage BasePage.java103 - Let's shop is clicked.
+20241119 13:21:42 INFO  [main] base.BasePage BasePage.java93 - Adding WebDriverWait of 10 seconds.
+20241119 13:25:47 INFO  [main] base.BasePage BasePage.java87 - Adding implicit wait of 5 seconds.
+20241119 13:25:50 INFO  [main] base.BasePage BasePage.java53 - data is entered in the EnterName text field
+20241119 13:25:50 INFO  [main] base.BasePage BasePage.java103 - Let's shop is clicked.
+20241119 13:26:01 INFO  [main] base.BasePage BasePage.java93 - Adding WebDriverWait of 10 seconds.
+20241119 13:27:31 INFO  [main] base.BasePage BasePage.java87 - Adding implicit wait of 5 seconds.
+20241119 13:27:35 INFO  [main] base.BasePage BasePage.java53 - data is entered in the EnterName text field
+20241119 13:27:36 INFO  [main] base.BasePage BasePage.java103 - Let's shop is clicked.
+20241119 13:27:47 INFO  [main] base.BasePage BasePage.java93 - Adding WebDriverWait of 10 seconds.
+20241119 13:31:58 INFO  [main] base.BasePage BasePage.java87 - Adding implicit wait of 5 seconds.
+20241119 13:32:01 INFO  [main] base.BasePage BasePage.java53 - data is entered in the EnterName text field
+20241119 13:32:02 INFO  [main] base.BasePage BasePage.java103 - Let's shop is clicked.
+20241119 13:32:13 INFO  [main] base.BasePage BasePage.java93 - Adding WebDriverWait of 10 seconds.
+20241119 17:20:21 INFO  [main] base.BasePage BasePage.java87 - Adding implicit wait of 5 seconds.
+20241119 17:20:24 INFO  [main] base.BasePage BasePage.java53 - data is entered in the EnterName text field
+20241119 17:20:25 INFO  [main] base.BasePage BasePage.java103 - Let's shop is clicked.
+20241119 17:33:15 INFO  [main] base.BasePage BasePage.java87 - Adding implicit wait of 5 seconds.
+20241119 17:33:18 INFO  [main] base.BasePage BasePage.java53 - data is entered in the EnterName text field
+20241119 17:33:19 INFO  [main] base.BasePage BasePage.java103 - Let's shop is clicked.
+20241119 17:36:19 INFO  [main] base.BasePage BasePage.java87 - Adding implicit wait of 10 seconds.
+20241119 17:36:22 INFO  [main] base.BasePage BasePage.java53 - data is entered in the EnterName text field
+20241119 17:36:23 INFO  [main] base.BasePage BasePage.java103 - Let's shop is clicked.
+20241119 17:37:02 INFO  [main] base.BasePage BasePage.java87 - Adding implicit wait of 10 seconds.
+20241119 17:37:05 INFO  [main] base.BasePage BasePage.java53 - data is entered in the EnterName text field
+20241119 17:37:06 INFO  [main] base.BasePage BasePage.java103 - Let's shop is clicked.
+20241119 18:27:45 INFO  [main] base.BasePage BasePage.java87 - Adding implicit wait of 10 seconds.
+20241119 18:27:48 INFO  [main] base.BasePage BasePage.java53 - data is entered in the EnterName text field
+20241119 18:27:48 INFO  [main] base.BasePage BasePage.java103 - Let's shop is clicked.
+20241119 18:27:55 INFO  [main] base.BasePage BasePage.java103 - Cart Button is clicked.
+20241119 18:28:50 INFO  [main] base.BasePage BasePage.java87 - Adding implicit wait of 10 seconds.
+20241119 18:28:53 INFO  [main] base.BasePage BasePage.java53 - data is entered in the EnterName text field
+20241119 18:28:54 INFO  [main] base.BasePage BasePage.java103 - Let's shop is clicked.
+20241119 18:43:13 INFO  [main] base.BasePage BasePage.java87 - Adding implicit wait of 10 seconds.
+20241119 18:43:15 INFO  [main] base.BasePage BasePage.java53 - data is entered in the EnterName text field
+20241119 18:43:16 INFO  [main] base.BasePage BasePage.java103 - Let's shop is clicked.
+20241119 18:45:53 INFO  [main] base.BasePage BasePage.java87 - Adding implicit wait of 10 seconds.
+20241119 18:45:55 INFO  [main] base.BasePage BasePage.java53 - data is entered in the EnterName text field
+20241119 18:45:57 INFO  [main] base.BasePage BasePage.java103 - Let's shop is clicked.
+20241119 18:46:15 INFO  [main] base.BasePage BasePage.java87 - Adding implicit wait of 10 seconds.
+20241119 18:46:19 INFO  [main] base.BasePage BasePage.java53 - data is entered in the EnterName text field
+20241119 18:46:20 INFO  [main] base.BasePage BasePage.java103 - Let's shop is clicked.
+20241119 19:45:35 INFO  [main] base.BasePage BasePage.java89 - Adding implicit wait of 10 seconds.
+20241119 19:45:37 INFO  [main] base.BasePage BasePage.java53 - data is entered in the EnterName text field
+20241119 19:45:38 INFO  [main] base.BasePage BasePage.java105 - Let's shop is clicked.
+20241119 19:46:53 INFO  [main] base.BasePage BasePage.java89 - Adding implicit wait of 10 seconds.
+20241119 19:46:55 INFO  [main] base.BasePage BasePage.java53 - data is entered in the EnterName text field
+20241119 19:46:56 INFO  [main] base.BasePage BasePage.java105 - Let's shop is clicked.
+20241119 19:48:15 INFO  [main] base.BasePage BasePage.java89 - Adding implicit wait of 10 seconds.
+20241119 19:48:18 INFO  [main] base.BasePage BasePage.java53 - data is entered in the EnterName text field
+20241119 19:48:19 INFO  [main] base.BasePage BasePage.java105 - Let's shop is clicked.
+20241119 19:50:13 INFO  [main] base.BasePage BasePage.java89 - Adding implicit wait of 10 seconds.
+20241119 19:50:15 INFO  [main] base.BasePage BasePage.java53 - data is entered in the EnterName text field
+20241119 19:50:16 INFO  [main] base.BasePage BasePage.java105 - Let's shop is clicked.
+20241119 20:27:02 INFO  [main] base.BasePage BasePage.java89 - Adding implicit wait of 10 seconds.
+20241119 20:27:03 INFO  [main] base.BasePage BasePage.java53 - data is entered in the EnterName text field
+20241119 20:27:04 INFO  [main] base.BasePage BasePage.java105 - Let's shop is clicked.
+20241119 20:30:34 INFO  [main] base.BasePage BasePage.java89 - Adding implicit wait of 10 seconds.
+20241119 20:30:35 INFO  [main] base.BasePage BasePage.java53 - data is entered in the EnterName text field
+20241119 20:30:36 INFO  [main] base.BasePage BasePage.java105 - Let's shop is clicked.
+20241119 20:33:16 INFO  [main] base.BasePage BasePage.java89 - Adding implicit wait of 10 seconds.
+20241119 20:33:18 INFO  [main] base.BasePage BasePage.java53 - data is entered in the EnterName text field
+20241119 20:33:18 INFO  [main] base.BasePage BasePage.java105 - Let's shop is clicked.
+20241119 23:21:16 INFO  [main] base.BasePage BasePage.java89 - Adding implicit wait of 10 seconds.
+20241119 23:21:19 INFO  [main] base.BasePage BasePage.java53 - data is entered in the EnterName text field
+20241119 23:21:20 INFO  [main] base.BasePage BasePage.java105 - Let's shop is clicked.
+20241119 23:26:40 INFO  [main] base.BasePage BasePage.java89 - Adding implicit wait of 10 seconds.
+20241119 23:26:43 INFO  [main] base.BasePage BasePage.java53 - data is entered in the EnterName text field
+20241119 23:26:44 INFO  [main] base.BasePage BasePage.java105 - Let's shop is clicked.
+20241119 23:38:05 INFO  [main] base.BasePage BasePage.java89 - Adding implicit wait of 10 seconds.
+20241119 23:38:07 INFO  [main] base.BasePage BasePage.java53 - data is entered in the EnterName text field
+20241119 23:38:08 INFO  [main] base.BasePage BasePage.java105 - Let's shop is clicked.
+20241119 23:38:30 INFO  [main] testcases.CartTest CartTest.java138 - NATIVE_APP
+20241119 23:38:30 INFO  [main] testcases.CartTest CartTest.java138 - WEBVIEW_com.androidsample.generalstore
+20241119 23:42:03 INFO  [main] base.BasePage BasePage.java89 - Adding implicit wait of 10 seconds.
+20241119 23:42:04 INFO  [main] base.BasePage BasePage.java53 - data is entered in the EnterName text field
+20241119 23:42:05 INFO  [main] base.BasePage BasePage.java105 - Let's shop is clicked.
+20241119 23:42:27 INFO  [main] testcases.CartTest CartTest.java138 - NATIVE_APP
+20241119 23:42:27 INFO  [main] testcases.CartTest CartTest.java138 - WEBVIEW_com.androidsample.generalstore
